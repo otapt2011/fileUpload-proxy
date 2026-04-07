@@ -1,0 +1,7 @@
+{
+  "name": "fileUpload-proxy",
+  "version": "1.0.0",
+  "dependencies": {
+    "formidable-serverless": "^1.1.1"
+  }
+}
